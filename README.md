@@ -85,13 +85,13 @@ Smart-Medicine-Reminder-Box/
 
 ## 📸 Project Images
 
-![Project Intial Conditoin](Images/Intial_Condition.png)
+![Project Intial Conditoin](Intial_Condition.png)
 
-![Medicine Period Start](Images/Medicine_period.png)
+![Medicine Period Start](Medicine_period.png)
 
-![Medicine Taken Successfully](Images/Taken_Success.png)
+![Medicine Taken Successfully](Taken_Success.png)
 
-![MEdicine Missed Condition](Images/Missed_Medicine.png)
+![MEdicine Missed Condition](Missed_Medicine.png)
 
 ---
 
