@@ -93,7 +93,8 @@ Smart-Medicine-Reminder-Box/
 
 ![MEdicine Missed Condition](Missed_Medicine.png)
 
-![Final Project Image](Smart Medi Rem Box Project Photo.jpng)
+![MEdicine Missed Condition](Smart Medi Rem Box Project Photo.jpeg)
+
 ---
 
 ## 🎯 Applications
